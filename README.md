@@ -21,7 +21,6 @@
 ### ♣️ My status
 
 <div align="right">
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="300" height="200 />
 
 ![Yoonji21's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoonji21&show_icons=true&theme=graywhite)
 </div>
