@@ -10,6 +10,13 @@
 
 <div align="center">
 
+### ♣️ My information
+🏫 [Gyeonggi Game Meister High Scool student](https://ggm-h.goeay.kr/ggm-h/main.do)
+
+
+✉️ dayen.com.nate@gmail.com
+
+* * *
 ### ♣️ What I'm learning 
 <img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=csharp&logoColor=black"/>
 <img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=c&logoColor=black"/>
